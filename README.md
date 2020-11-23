@@ -1,2 +1,1 @@
-# Tours-list
- React practice project
+## React Projects Starter APP
